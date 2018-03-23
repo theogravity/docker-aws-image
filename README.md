@@ -13,6 +13,8 @@ https://hub.docker.com/r/personalife/alpine-docker-aws/
 - jq
 - ecs-deploy
 - boto3
+- git
+- openssh-client
 
 ## Publishing
 
