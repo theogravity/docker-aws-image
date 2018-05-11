@@ -16,6 +16,10 @@ https://hub.docker.com/r/personalife/alpine-docker-aws/
 - git
 - openssh-client
 
+Build status:
+
+https://cloud.docker.com/swarm/personalife/repository/docker/personalife/alpine-docker-aws/general
+
 ## Publishing
 
 This repo is integrated directly into docker cloud for auto-publishing.
