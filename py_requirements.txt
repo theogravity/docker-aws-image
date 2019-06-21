@@ -1,3 +1,4 @@
-awscli==1.11.146
-boto3==1.4.7
-ecs-deploy==1.4.3
+awscli==1.16.184
+boto3==1.9.174
+ecs-deploy==1.7.0
+
