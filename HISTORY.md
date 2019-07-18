@@ -1,6 +1,14 @@
 # v1.3.2
 
-  * Update docker image, awscli, boto3, ecs-deploy to latest
+  * Update docker image, awscli, boto3, ecs-deploy
+
+```
+FROM docker:18.09.08-ce
+
+awscli==1.16.199
+boto3==1.9.189
+ecs-deploy==1.7.1
+```
 
 # v1.3.0
 
