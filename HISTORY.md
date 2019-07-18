@@ -1,4 +1,4 @@
-# v1.3.2
+# v3.0.2
 
   * Update docker image, awscli, boto3, ecs-deploy
 
