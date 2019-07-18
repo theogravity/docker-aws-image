@@ -1,4 +1,4 @@
-FROM docker:18.09.08-ce
+FROM docker:18.09.08
 
 ADD py_requirements.txt /
 
